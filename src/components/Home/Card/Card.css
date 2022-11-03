@@ -1,0 +1,24 @@
+.card{
+    background-color: rgb(173, 169, 169);
+    width: 250px;
+    color: rgb(228, 216, 216);    
+    margin: 35px;
+    border-radius: 15px;    
+}
+
+.description-container{
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;    
+    font-size: 18px;
+    color: white;    
+    background-color: black;
+}
+
+img{
+    width: 200px;
+    background-color: white;
+    border-radius: 15px 15px 0px 0px;
+}
